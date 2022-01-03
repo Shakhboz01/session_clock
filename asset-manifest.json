@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/session_clock/static/css/main.494bcf0a.css",
+    "main.js": "/session_clock/static/js/main.9a0fd55f.js",
+    "static/media/bootstrap-icons.woff?": "/session_clock/static/media/bootstrap-icons.38c4d2499557ae0379fd.woff",
+    "static/media/bootstrap-icons.woff2?": "/session_clock/static/media/bootstrap-icons.2b56e79ae5013246de29.woff2",
+    "index.html": "/session_clock/index.html",
+    "main.494bcf0a.css.map": "/session_clock/static/css/main.494bcf0a.css.map",
+    "main.9a0fd55f.js.map": "/session_clock/static/js/main.9a0fd55f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.494bcf0a.css",
+    "static/js/main.9a0fd55f.js"
+  ]
+}
